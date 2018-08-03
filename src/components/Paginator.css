@@ -1,0 +1,22 @@
+.Paginator {
+	margin-bottom: 8px;
+	margin-top: 8px;
+}
+
+.Paginator--button {
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.Paginator--button:hover {
+	background-color: #ddd;
+	cursor: pointer;
+}
+
+.Paginator--input-per-page-wrapper {
+	margin-left: 8px;
+}
+
+.Paginator--input-per-page {
+	width: 40px;
+}

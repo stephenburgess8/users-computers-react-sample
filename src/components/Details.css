@@ -1,0 +1,13 @@
+.Details--table {
+	border-spacing: 0;
+  	border-collapse: separate;
+	margin-left: 16px;
+	margin-top: 16px;
+}
+
+.Details--table-td {
+	border-bottom: 1px solid #333;
+	border-left: none;
+	padding: 8px;
+	text-align: left;
+}

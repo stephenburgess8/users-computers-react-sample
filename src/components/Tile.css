@@ -1,0 +1,26 @@
+.Tile {
+	background-color: #5694E9;
+	border: 1px solid #fff;
+	border-radius: 2px;
+	color: #fff;
+	display: inline-block;
+	transition: background-color 250ms ease-in-out;
+	width: 160px;
+}
+
+.Tile:hover {
+	background-color: #317CE4;
+	transition: background-color 250ms ease-in-out;
+}
+
+.Tile:first-child {
+	margin-right: 16px;
+}
+
+.Tile-header {
+	font-weight: 500;
+}
+
+.Tile-icon {
+	font-size: 2em;
+}
